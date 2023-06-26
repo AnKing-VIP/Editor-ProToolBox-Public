@@ -22,7 +22,7 @@ The ones used here are:
 - Google image
 - English to Italian (using yandex api, you can choose other languages)
 
-(Each button has a description which can be accessed by pressing the Alt key, clicking on it and selecting the the Description tab)
+(Each button has a description which can be accessed by pressing the Alt key, clicking on it and selecting the Description tab)
 
 ### Search buttons
 <img src="screenshots/anki_search.gif">
