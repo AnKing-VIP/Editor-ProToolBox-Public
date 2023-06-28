@@ -1,4 +1,4 @@
-<b>This add-on was funded by the Anki Mastery Course. Please consider supporting our work using the links below so we can continue to fund add-on projects like this.</b>
+<b>This add-on is currently an exclusive add-on for AnKing VIPs only. <a href="www.theanking.com/vip">Sign up here.</a></b>
 
 You must be on Anki **2.1.55+** to use this add-on
 
@@ -84,11 +84,8 @@ We can leave all other settings as is and test the button.
 If we want we can reduce the numbers of synonyms we get by changing the "max result groups" setting in the Output tab to something like 3.
 
 <b>Problems, Bugs, Errors, Improvements</b>
-If you find a serious bug, please submit it on <a href="https://github.com/ankipalace/" rel="nofollow">Github</a> or email us at ankingmed@gmail.com. Please remember that we are not coders and thus may not be able to provide support.
+If you find a serious bug, please submit it [here](https://github.com/AnKing-VIP/Editor-ProToolBox-Public/issues). Please remember that we are not coders and thus may not be able to provide support.
 
-<b>Changelog:</b>
-<br>
-2021\*\*\*: Initial Release
 
 <b>Please consider checking out our:</b>
 <a href="https://www.youtube.com/theanking/playlists" rel="nofollow">YouTube Channel</a>- <i>How to use Anki for beginners and advanced users.</i>
@@ -105,6 +102,3 @@ If you find a serious bug, please submit it on <a href="https://github.com/ankip
 <br>
 <b>Check out our <a href="https://www.theanking.com/anki-mastery-course/?utm_source=anking_addon_template-on&amp;utm_medium=anki_add-on_page&amp;utm_campaign=mastery_course" rel="nofollow">Anki Mastery Course</a>! (The source of funding for this project)</b><br>
 </p>
-
-## Development Notes
-Run `python scripts/build.py` to make `mypy` checks work.
